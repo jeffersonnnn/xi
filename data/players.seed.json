@@ -1,0 +1,2847 @@
+[
+  {
+    "name": "Kylian Mbappé",
+    "short_name": "Mbappé",
+    "nationality_code": "FRA",
+    "nationality_name": "France",
+    "club": "Real Madrid",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "ST",
+      "RW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Picture_with_Mbapp%C3%A9_%28cropped_and_rotated%29.jpg/250px-Picture_with_Mbapp%C3%A9_%28cropped_and_rotated%29.jpg",
+    "birthdate": "1998-12-20"
+  },
+  {
+    "name": "Antoine Griezmann",
+    "short_name": "Griezmann",
+    "nationality_code": "FRA",
+    "nationality_name": "France",
+    "club": "Atlético Madrid",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1991-03-21"
+  },
+  {
+    "name": "Ousmane Dembélé",
+    "short_name": "Dembélé",
+    "nationality_code": "FRA",
+    "nationality_name": "France",
+    "club": "Paris Saint-Germain",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW",
+      "ST"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ousmane_Demb%C3%A9l%C3%A9_2018_%28cropped%29.jpg/250px-Ousmane_Demb%C3%A9l%C3%A9_2018_%28cropped%29.jpg",
+    "birthdate": "1997-05-15"
+  },
+  {
+    "name": "Aurélien Tchouaméni",
+    "short_name": "Tchouaméni",
+    "nationality_code": "FRA",
+    "nationality_name": "France",
+    "club": "Real Madrid",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2025_04_26_Final_de_la_Copa_del_Rey_-_Aur%C3%A9lien_Tchouam%C3%A9ni.jpg/250px-2025_04_26_Final_de_la_Copa_del_Rey_-_Aur%C3%A9lien_Tchouam%C3%A9ni.jpg",
+    "birthdate": "2000-01-27"
+  },
+  {
+    "name": "Eduardo Camavinga",
+    "short_name": "Camavinga",
+    "nationality_code": "FRA",
+    "nationality_name": "France",
+    "club": "Real Madrid",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "2002-11-10"
+  },
+  {
+    "name": "Mike Maignan",
+    "short_name": "Maignan",
+    "nationality_code": "FRA",
+    "nationality_name": "France",
+    "club": "AC Milan",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mike_Maignan_2022_Salzburg_vs_AC_Milan_2022-09-06.jpg/250px-Mike_Maignan_2022_Salzburg_vs_AC_Milan_2022-09-06.jpg",
+    "birthdate": "1995-07-03"
+  },
+  {
+    "name": "William Saliba",
+    "short_name": "Saliba",
+    "nationality_code": "FRA",
+    "nationality_name": "France",
+    "club": "Arsenal",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/1_william_saliba_arsenal_2025_%28cropped%29.jpg/250px-1_william_saliba_arsenal_2025_%28cropped%29.jpg",
+    "birthdate": "2001-03-24"
+  },
+  {
+    "name": "Theo Hernandez",
+    "short_name": "T. Hernandez",
+    "nationality_code": "FRA",
+    "nationality_name": "France",
+    "club": "AC Milan",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "LB",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1997-10-06"
+  },
+  {
+    "name": "Vinicius Junior",
+    "short_name": "Vinicius Jr",
+    "nationality_code": "BRA",
+    "nationality_name": "Brazil",
+    "club": "Real Madrid",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "ST",
+      "RW"
+    ],
+    "photo_url": null,
+    "birthdate": "2000-07-12"
+  },
+  {
+    "name": "Rodrygo",
+    "short_name": "Rodrygo",
+    "nationality_code": "BRA",
+    "nationality_name": "Brazil",
+    "club": "Real Madrid",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW",
+      "ST"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rodrygo_2023_%28cropped%29.jpg/250px-Rodrygo_2023_%28cropped%29.jpg",
+    "birthdate": "2001-01-09"
+  },
+  {
+    "name": "Endrick",
+    "short_name": "Endrick",
+    "nationality_code": "BRA",
+    "nationality_name": "Brazil",
+    "club": "Real Madrid",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "2006-07-21"
+  },
+  {
+    "name": "Éder Militão",
+    "short_name": "Militão",
+    "nationality_code": "BRA",
+    "nationality_name": "Brazil",
+    "club": "Real Madrid",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Eder_Militao_2021.jpg/250px-Eder_Militao_2021.jpg",
+    "birthdate": "1998-01-18"
+  },
+  {
+    "name": "Marquinhos",
+    "short_name": "Marquinhos",
+    "nationality_code": "BRA",
+    "nationality_name": "Brazil",
+    "club": "Paris Saint-Germain",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1994-05-14"
+  },
+  {
+    "name": "Alisson Becker",
+    "short_name": "Alisson",
+    "nationality_code": "BRA",
+    "nationality_name": "Brazil",
+    "club": "Liverpool",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1992-10-02"
+  },
+  {
+    "name": "Ederson Moraes",
+    "short_name": "Ederson",
+    "nationality_code": "BRA",
+    "nationality_name": "Brazil",
+    "club": "Manchester City",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1993-08-17"
+  },
+  {
+    "name": "Lucas Paquetá",
+    "short_name": "Paquetá",
+    "nationality_code": "BRA",
+    "nationality_name": "Brazil",
+    "club": "West Ham United",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lucas_Paquet%C3%A1_of_West_Ham.jpeg/250px-Lucas_Paquet%C3%A1_of_West_Ham.jpeg",
+    "birthdate": "1997-08-27"
+  },
+  {
+    "name": "Lionel Messi",
+    "short_name": "Messi",
+    "nationality_code": "ARG",
+    "nationality_name": "Argentina",
+    "club": "Inter Miami",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "ST"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg/250px-Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg",
+    "birthdate": "1987-06-24"
+  },
+  {
+    "name": "Lautaro Martínez",
+    "short_name": "Lautaro",
+    "nationality_code": "ARG",
+    "nationality_name": "Argentina",
+    "club": "Inter Milan",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lautaro_Martinez_ARGENTINA_VS_VENEZUELA_2017.jpg/250px-Lautaro_Martinez_ARGENTINA_VS_VENEZUELA_2017.jpg",
+    "birthdate": "1997-08-22"
+  },
+  {
+    "name": "Julián Álvarez",
+    "short_name": "J. Álvarez",
+    "nationality_code": "ARG",
+    "nationality_name": "Argentina",
+    "club": "Atlético Madrid",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST",
+      "RW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Juli%C3%A1n_%C3%81lvarez_2022.jpg/250px-Juli%C3%A1n_%C3%81lvarez_2022.jpg",
+    "birthdate": "2000-01-31"
+  },
+  {
+    "name": "Enzo Fernández",
+    "short_name": "E. Fernández",
+    "nationality_code": "ARG",
+    "nationality_name": "Argentina",
+    "club": "Chelsea",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Enzo_Fern%C3%A1ndez_2025_FIFA_Club_World_Cup_Final.jpg/250px-Enzo_Fern%C3%A1ndez_2025_FIFA_Club_World_Cup_Final.jpg",
+    "birthdate": "2001-01-17"
+  },
+  {
+    "name": "Alexis Mac Allister",
+    "short_name": "Mac Allister",
+    "nationality_code": "ARG",
+    "nationality_name": "Argentina",
+    "club": "Liverpool",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1998-12-24"
+  },
+  {
+    "name": "Rodrigo De Paul",
+    "short_name": "De Paul",
+    "nationality_code": "ARG",
+    "nationality_name": "Argentina",
+    "club": "Atlético Madrid",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "RW"
+    ],
+    "photo_url": null,
+    "birthdate": "1994-05-24"
+  },
+  {
+    "name": "Emiliano Martínez",
+    "short_name": "E. Martínez",
+    "nationality_code": "ARG",
+    "nationality_name": "Argentina",
+    "club": "Aston Villa",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/St._Louis_City_vs_Aston_Villa_%28Jul_2025%29_14_%28Emiliano_Mart%C3%ADnez%29.jpg/250px-St._Louis_City_vs_Aston_Villa_%28Jul_2025%29_14_%28Emiliano_Mart%C3%ADnez%29.jpg",
+    "birthdate": "1992-09-02"
+  },
+  {
+    "name": "Cristian Romero",
+    "short_name": "Romero",
+    "nationality_code": "ARG",
+    "nationality_name": "Argentina",
+    "club": "Tottenham Hotspur",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1998-04-27"
+  },
+  {
+    "name": "Jude Bellingham",
+    "short_name": "Bellingham",
+    "nationality_code": "ENG",
+    "nationality_name": "England",
+    "club": "Real Madrid",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190551-2_%28cropped%29.jpg/250px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190551-2_%28cropped%29.jpg",
+    "birthdate": "2003-06-29"
+  },
+  {
+    "name": "Bukayo Saka",
+    "short_name": "Saka",
+    "nationality_code": "ENG",
+    "nationality_name": "England",
+    "club": "Arsenal",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/1_bukayo_saka_arsenal_2025_%28cropped%29.jpg/250px-1_bukayo_saka_arsenal_2025_%28cropped%29.jpg",
+    "birthdate": "2001-09-05"
+  },
+  {
+    "name": "Phil Foden",
+    "short_name": "Foden",
+    "nationality_code": "ENG",
+    "nationality_name": "England",
+    "club": "Manchester City",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "LW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2613%2C_Phil_Foden.jpg/250px-2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2613%2C_Phil_Foden.jpg",
+    "birthdate": "2000-05-28"
+  },
+  {
+    "name": "Cole Palmer",
+    "short_name": "Palmer",
+    "nationality_code": "ENG",
+    "nationality_name": "England",
+    "club": "Chelsea",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "RW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cole_Palmer_2025_FIFA_Club_World_Cup_Final.jpg/250px-Cole_Palmer_2025_FIFA_Club_World_Cup_Final.jpg",
+    "birthdate": "2002-05-06"
+  },
+  {
+    "name": "Harry Kane",
+    "short_name": "Kane",
+    "nationality_code": "ENG",
+    "nationality_name": "England",
+    "club": "Bayern Munich",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Harry_Kane_on_October_10%2C_2023.jpg/250px-Harry_Kane_on_October_10%2C_2023.jpg",
+    "birthdate": "1993-07-28"
+  },
+  {
+    "name": "Declan Rice",
+    "short_name": "Rice",
+    "nationality_code": "ENG",
+    "nationality_name": "England",
+    "club": "Arsenal",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/1_declan_rice_arsenal_2025_%28cropped%29.jpg/250px-1_declan_rice_arsenal_2025_%28cropped%29.jpg",
+    "birthdate": "1999-01-14"
+  },
+  {
+    "name": "Jordan Pickford",
+    "short_name": "Pickford",
+    "nationality_code": "ENG",
+    "nationality_name": "England",
+    "club": "Everton",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Jordan_Pickford_2022-07-16_1.jpg/250px-Jordan_Pickford_2022-07-16_1.jpg",
+    "birthdate": "1994-03-07"
+  },
+  {
+    "name": "Trent Alexander-Arnold",
+    "short_name": "Alexander-Arnold",
+    "nationality_code": "ENG",
+    "nationality_name": "England",
+    "club": "Real Madrid",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "RB",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Trent_Alexander-Arnold_2018_%28cropped%29.jpg/250px-Trent_Alexander-Arnold_2018_%28cropped%29.jpg",
+    "birthdate": "1998-10-07"
+  },
+  {
+    "name": "Lamine Yamal",
+    "short_name": "Yamal",
+    "nationality_code": "ESP",
+    "nationality_name": "Spain",
+    "club": "Barcelona",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Lamine_Yamal_in_2025.jpg/250px-Lamine_Yamal_in_2025.jpg",
+    "birthdate": "2007-07-13"
+  },
+  {
+    "name": "Pedri",
+    "short_name": "Pedri",
+    "nationality_code": "ESP",
+    "nationality_name": "Spain",
+    "club": "Barcelona",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pedri.jpg/250px-Pedri.jpg",
+    "birthdate": "2002-11-25"
+  },
+  {
+    "name": "Dani Olmo",
+    "short_name": "Olmo",
+    "nationality_code": "ESP",
+    "nationality_name": "Spain",
+    "club": "Barcelona",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "LW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dani_Olmo_2022.jpg/250px-Dani_Olmo_2022.jpg",
+    "birthdate": "1998-05-07"
+  },
+  {
+    "name": "Nico Williams",
+    "short_name": "N. Williams",
+    "nationality_code": "ESP",
+    "nationality_name": "Spain",
+    "club": "Athletic Bilbao",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "RW"
+    ],
+    "photo_url": null,
+    "birthdate": "2002-07-12"
+  },
+  {
+    "name": "Rodri",
+    "short_name": "Rodri",
+    "nationality_code": "ESP",
+    "nationality_name": "Spain",
+    "club": "Manchester City",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RODRI_-_SWE_vs_ESP_-_UEFA_EURO_2020_QUALIFIERS_-_2019.10.15_%28cropped%29.jpg/250px-RODRI_-_SWE_vs_ESP_-_UEFA_EURO_2020_QUALIFIERS_-_2019.10.15_%28cropped%29.jpg",
+    "birthdate": "1996-06-22"
+  },
+  {
+    "name": "Unai Simón",
+    "short_name": "U. Simón",
+    "nationality_code": "ESP",
+    "nationality_name": "Spain",
+    "club": "Athletic Bilbao",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Unai_Sim%C3%B3n_2025_%28cropped%29.jpg/250px-Unai_Sim%C3%B3n_2025_%28cropped%29.jpg",
+    "birthdate": "1997-06-11"
+  },
+  {
+    "name": "Dani Carvajal",
+    "short_name": "Carvajal",
+    "nationality_code": "ESP",
+    "nationality_name": "Spain",
+    "club": "Real Madrid",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "RB"
+    ],
+    "photo_url": null,
+    "birthdate": "1992-01-11"
+  },
+  {
+    "name": "Álvaro Morata",
+    "short_name": "Morata",
+    "nationality_code": "ESP",
+    "nationality_name": "Spain",
+    "club": "AC Milan",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "1992-10-23"
+  },
+  {
+    "name": "Jamal Musiala",
+    "short_name": "Musiala",
+    "nationality_code": "GER",
+    "nationality_name": "Germany",
+    "club": "Bayern Munich",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "LW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jamal_Musiala_2022_%28cropped%29.jpg/250px-Jamal_Musiala_2022_%28cropped%29.jpg",
+    "birthdate": "2003-02-26"
+  },
+  {
+    "name": "Florian Wirtz",
+    "short_name": "Wirtz",
+    "nationality_code": "GER",
+    "nationality_name": "Germany",
+    "club": "Bayer Leverkusen",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Florian_Wirtz%2C_2022-07-31%2C_Saisoner%C3%B6ffnung_Bayer_04%2C_Leverkusen_%281%29_%28cropped%29.jpg/250px-Florian_Wirtz%2C_2022-07-31%2C_Saisoner%C3%B6ffnung_Bayer_04%2C_Leverkusen_%281%29_%28cropped%29.jpg",
+    "birthdate": "2003-05-03"
+  },
+  {
+    "name": "Kai Havertz",
+    "short_name": "Havertz",
+    "nationality_code": "GER",
+    "nationality_name": "Germany",
+    "club": "Arsenal",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1999-06-11"
+  },
+  {
+    "name": "İlkay Gündoğan",
+    "short_name": "Gündoğan",
+    "nationality_code": "GER",
+    "nationality_name": "Germany",
+    "club": "Barcelona",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1990-10-24"
+  },
+  {
+    "name": "Joshua Kimmich",
+    "short_name": "Kimmich",
+    "nationality_code": "GER",
+    "nationality_name": "Germany",
+    "club": "Bayern Munich",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "RB"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2078_LR10_by_Stepro_%28cropped%29.jpg/250px-2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2078_LR10_by_Stepro_%28cropped%29.jpg",
+    "birthdate": "1995-02-08"
+  },
+  {
+    "name": "Manuel Neuer",
+    "short_name": "Neuer",
+    "nationality_code": "GER",
+    "nationality_name": "Germany",
+    "club": "Bayern Munich",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Manuel_Neuer_850_0723.jpg/250px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Manuel_Neuer_850_0723.jpg",
+    "birthdate": "1986-03-27"
+  },
+  {
+    "name": "Antonio Rüdiger",
+    "short_name": "Rüdiger",
+    "nationality_code": "GER",
+    "nationality_name": "Germany",
+    "club": "Real Madrid",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Antonio_R%C3%BCdiger_850_0711.jpg/250px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Antonio_R%C3%BCdiger_850_0711.jpg",
+    "birthdate": "1993-03-03"
+  },
+  {
+    "name": "Leroy Sané",
+    "short_name": "Sané",
+    "nationality_code": "GER",
+    "nationality_name": "Germany",
+    "club": "Bayern Munich",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1996-01-11"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "short_name": "Ronaldo",
+    "nationality_code": "POR",
+    "nationality_name": "Portugal",
+    "club": "Al Nassr",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST",
+      "LW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/President_Donald_Trump_meets_with_Cristiano_Ronaldo_in_the_Oval_Office_%2854933344262%29_%28cropped_and_rotated%29.jpg/250px-President_Donald_Trump_meets_with_Cristiano_Ronaldo_in_the_Oval_Office_%2854933344262%29_%28cropped_and_rotated%29.jpg",
+    "birthdate": "1985-02-05"
+  },
+  {
+    "name": "Bruno Fernandes",
+    "short_name": "B. Fernandes",
+    "nationality_code": "POR",
+    "nationality_name": "Portugal",
+    "club": "Manchester United",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-42_%28cropped%29.jpg/250px-Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-42_%28cropped%29.jpg",
+    "birthdate": "1994-09-08"
+  },
+  {
+    "name": "Bernardo Silva",
+    "short_name": "B. Silva",
+    "nationality_code": "POR",
+    "nationality_name": "Portugal",
+    "club": "Manchester City",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "RW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bernardo_Silva_%28Isto_%C3%89_Gozar_Com_Quem_Trabalha%2C_2024%29.png/250px-Bernardo_Silva_%28Isto_%C3%89_Gozar_Com_Quem_Trabalha%2C_2024%29.png",
+    "birthdate": "1994-08-10"
+  },
+  {
+    "name": "Rafael Leão",
+    "short_name": "R. Leão",
+    "nationality_code": "POR",
+    "nationality_name": "Portugal",
+    "club": "AC Milan",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "ST"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RafaelLe%C3%A3oPortugal23.jpg/250px-RafaelLe%C3%A3oPortugal23.jpg",
+    "birthdate": "1999-06-10"
+  },
+  {
+    "name": "Vitinha",
+    "short_name": "Vitinha",
+    "nationality_code": "POR",
+    "nationality_name": "Portugal",
+    "club": "Paris Saint-Germain",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "2000-02-13"
+  },
+  {
+    "name": "Diogo Costa",
+    "short_name": "D. Costa",
+    "nationality_code": "POR",
+    "nationality_name": "Portugal",
+    "club": "FC Porto",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1999-09-19"
+  },
+  {
+    "name": "Rúben Dias",
+    "short_name": "R. Dias",
+    "nationality_code": "POR",
+    "nationality_name": "Portugal",
+    "club": "Manchester City",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Portugal_national_football_team_0866_%28R%C3%BAben_Dias%29.jpg/250px-Portugal_national_football_team_0866_%28R%C3%BAben_Dias%29.jpg",
+    "birthdate": "1997-05-14"
+  },
+  {
+    "name": "João Cancelo",
+    "short_name": "Cancelo",
+    "nationality_code": "POR",
+    "nationality_name": "Portugal",
+    "club": "Al Hilal",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "RB",
+      "LB"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Jo%C3%A3o_Cancelo_USMNT_v_Portugal_Mar_31_2026-30_%28cropped%29.jpg/250px-Jo%C3%A3o_Cancelo_USMNT_v_Portugal_Mar_31_2026-30_%28cropped%29.jpg",
+    "birthdate": "1994-05-27"
+  },
+  {
+    "name": "Cody Gakpo",
+    "short_name": "Gakpo",
+    "nationality_code": "NED",
+    "nationality_name": "Netherlands",
+    "club": "Liverpool",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "ST"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cody_Gakpo_06042025_%282%29_%28cropped%29.jpg/250px-Cody_Gakpo_06042025_%282%29_%28cropped%29.jpg",
+    "birthdate": "1999-05-07"
+  },
+  {
+    "name": "Xavi Simons",
+    "short_name": "X. Simons",
+    "nationality_code": "NED",
+    "nationality_name": "Netherlands",
+    "club": "RB Leipzig",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "RW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Xavi_Simons%2C_Nick_Verhagen_in_duel_met_Xavi_Simons.jpg/250px-Xavi_Simons%2C_Nick_Verhagen_in_duel_met_Xavi_Simons.jpg",
+    "birthdate": "2003-04-21"
+  },
+  {
+    "name": "Frenkie de Jong",
+    "short_name": "F. de Jong",
+    "nationality_code": "NED",
+    "nationality_name": "Netherlands",
+    "club": "Barcelona",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1997-05-12"
+  },
+  {
+    "name": "Memphis Depay",
+    "short_name": "Depay",
+    "nationality_code": "NED",
+    "nationality_name": "Netherlands",
+    "club": "Corinthians",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1994-02-13"
+  },
+  {
+    "name": "Virgil van Dijk",
+    "short_name": "van Dijk",
+    "nationality_code": "NED",
+    "nationality_name": "Netherlands",
+    "club": "Liverpool",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/20160604_AUT_NED_8876_%28cropped%29.jpg/250px-20160604_AUT_NED_8876_%28cropped%29.jpg",
+    "birthdate": "1991-07-08"
+  },
+  {
+    "name": "Matthijs de Ligt",
+    "short_name": "de Ligt",
+    "nationality_code": "NED",
+    "nationality_name": "Netherlands",
+    "club": "Manchester United",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1999-08-12"
+  },
+  {
+    "name": "Bart Verbruggen",
+    "short_name": "Verbruggen",
+    "nationality_code": "NED",
+    "nationality_name": "Netherlands",
+    "club": "Brighton",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "2002-08-18"
+  },
+  {
+    "name": "Denzel Dumfries",
+    "short_name": "Dumfries",
+    "nationality_code": "NED",
+    "nationality_name": "Netherlands",
+    "club": "Inter Milan",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "RB",
+      "RW"
+    ],
+    "photo_url": null,
+    "birthdate": "1996-04-18"
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "short_name": "De Bruyne",
+    "nationality_code": "BEL",
+    "nationality_name": "Belgium",
+    "club": "Manchester City",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/250px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+    "birthdate": "1991-06-28"
+  },
+  {
+    "name": "Romelu Lukaku",
+    "short_name": "Lukaku",
+    "nationality_code": "BEL",
+    "nationality_name": "Belgium",
+    "club": "Napoli",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Romelu_Lukaku_2021.jpg/250px-Romelu_Lukaku_2021.jpg",
+    "birthdate": "1993-05-13"
+  },
+  {
+    "name": "Jérémy Doku",
+    "short_name": "Doku",
+    "nationality_code": "BEL",
+    "nationality_name": "Belgium",
+    "club": "Manchester City",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "RW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/J%C3%A9r%C3%A9my_Doku_USMNT_v_Belgium_Mar_28_2026-27_%28cropped%29.jpg/250px-J%C3%A9r%C3%A9my_Doku_USMNT_v_Belgium_Mar_28_2026-27_%28cropped%29.jpg",
+    "birthdate": "2002-05-27"
+  },
+  {
+    "name": "Leandro Trossard",
+    "short_name": "Trossard",
+    "nationality_code": "BEL",
+    "nationality_name": "Belgium",
+    "club": "Arsenal",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "RW",
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "1994-12-04"
+  },
+  {
+    "name": "Amadou Onana",
+    "short_name": "Onana",
+    "nationality_code": "BEL",
+    "nationality_name": "Belgium",
+    "club": "Aston Villa",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "2001-08-16"
+  },
+  {
+    "name": "Jan Vertonghen",
+    "short_name": "Vertonghen",
+    "nationality_code": "BEL",
+    "nationality_name": "Belgium",
+    "club": "Anderlecht",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1987-04-24"
+  },
+  {
+    "name": "Gianluigi Donnarumma",
+    "short_name": "Donnarumma",
+    "nationality_code": "ITA",
+    "nationality_name": "Italy",
+    "club": "Paris Saint-Germain",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Norway_Italy_-_June_2025_A_17_%28Gianluigi_Donnarumma%29.jpg/250px-Norway_Italy_-_June_2025_A_17_%28Gianluigi_Donnarumma%29.jpg",
+    "birthdate": "1999-02-25"
+  },
+  {
+    "name": "Nicolò Barella",
+    "short_name": "Barella",
+    "nationality_code": "ITA",
+    "nationality_name": "Italy",
+    "club": "Inter Milan",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nicol%C3%B2_Barella_in_2021_%28cropped_2%29.jpg/250px-Nicol%C3%B2_Barella_in_2021_%28cropped_2%29.jpg",
+    "birthdate": "1997-02-07"
+  },
+  {
+    "name": "Federico Chiesa",
+    "short_name": "Chiesa",
+    "nationality_code": "ITA",
+    "nationality_name": "Italy",
+    "club": "Liverpool",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Federico_Chiesa_vs_Zenit_2021-10-20_%28cropped2%29.jpg/250px-Federico_Chiesa_vs_Zenit_2021-10-20_%28cropped2%29.jpg",
+    "birthdate": "1997-10-25"
+  },
+  {
+    "name": "Alessandro Bastoni",
+    "short_name": "Bastoni",
+    "nationality_code": "ITA",
+    "nationality_name": "Italy",
+    "club": "Inter Milan",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1999-04-13"
+  },
+  {
+    "name": "Sandro Tonali",
+    "short_name": "Tonali",
+    "nationality_code": "ITA",
+    "nationality_name": "Italy",
+    "club": "Newcastle United",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "2000-05-08"
+  },
+  {
+    "name": "Federico Dimarco",
+    "short_name": "Dimarco",
+    "nationality_code": "ITA",
+    "nationality_name": "Italy",
+    "club": "Inter Milan",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "LB",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1997-11-10"
+  },
+  {
+    "name": "Luka Modrić",
+    "short_name": "Modrić",
+    "nationality_code": "CRO",
+    "nationality_name": "Croatia",
+    "club": "Real Madrid",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ofrenda_de_la_Liga_y_la_Champions-57-L.Mill%C3%A1n_%2852109310843%29_%28Luka_Modri%C4%87%29.jpg/250px-Ofrenda_de_la_Liga_y_la_Champions-57-L.Mill%C3%A1n_%2852109310843%29_%28Luka_Modri%C4%87%29.jpg",
+    "birthdate": "1985-09-09"
+  },
+  {
+    "name": "Mateo Kovačić",
+    "short_name": "Kovačić",
+    "nationality_code": "CRO",
+    "nationality_name": "Croatia",
+    "club": "Manchester City",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1994-05-06"
+  },
+  {
+    "name": "Joško Gvardiol",
+    "short_name": "Gvardiol",
+    "nationality_code": "CRO",
+    "nationality_name": "Croatia",
+    "club": "Manchester City",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "LB"
+    ],
+    "photo_url": null,
+    "birthdate": "2002-01-23"
+  },
+  {
+    "name": "Ivan Perišić",
+    "short_name": "Perišić",
+    "nationality_code": "CRO",
+    "nationality_name": "Croatia",
+    "club": "Hajduk Split",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "RW"
+    ],
+    "photo_url": null,
+    "birthdate": "1989-02-02"
+  },
+  {
+    "name": "Marcelo Brozović",
+    "short_name": "Brozović",
+    "nationality_code": "CRO",
+    "nationality_name": "Croatia",
+    "club": "Al Nassr",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1992-11-16"
+  },
+  {
+    "name": "Dominik Livaković",
+    "short_name": "Livaković",
+    "nationality_code": "CRO",
+    "nationality_name": "Croatia",
+    "club": "Fenerbahçe",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1995-01-09"
+  },
+  {
+    "name": "Federico Valverde",
+    "short_name": "Valverde",
+    "nationality_code": "URU",
+    "nationality_name": "Uruguay",
+    "club": "Real Madrid",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "RW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Federico_Valverde_2021_%28cropped%29.jpg/250px-Federico_Valverde_2021_%28cropped%29.jpg",
+    "birthdate": "1998-07-22"
+  },
+  {
+    "name": "Luis Suárez",
+    "short_name": "Suárez",
+    "nationality_code": "URU",
+    "nationality_name": "Uruguay",
+    "club": "Inter Miami",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "1987-01-24"
+  },
+  {
+    "name": "Darwin Núñez",
+    "short_name": "Núñez",
+    "nationality_code": "URU",
+    "nationality_name": "Uruguay",
+    "club": "Liverpool",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1999-06-24"
+  },
+  {
+    "name": "Ronald Araújo",
+    "short_name": "Araújo",
+    "nationality_code": "URU",
+    "nationality_name": "Uruguay",
+    "club": "Barcelona",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1999-03-07"
+  },
+  {
+    "name": "Manuel Ugarte",
+    "short_name": "Ugarte",
+    "nationality_code": "URU",
+    "nationality_name": "Uruguay",
+    "club": "Manchester United",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "2001-04-11"
+  },
+  {
+    "name": "Sergio Rochet",
+    "short_name": "Rochet",
+    "nationality_code": "URU",
+    "nationality_name": "Uruguay",
+    "club": "Inter Miami",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1993-03-23"
+  },
+  {
+    "name": "James Rodríguez",
+    "short_name": "James",
+    "nationality_code": "COL",
+    "nationality_name": "Colombia",
+    "club": "León",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "RW"
+    ],
+    "photo_url": null,
+    "birthdate": "1991-07-12"
+  },
+  {
+    "name": "Luis Díaz",
+    "short_name": "L. Díaz",
+    "nationality_code": "COL",
+    "nationality_name": "Colombia",
+    "club": "Liverpool",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "RW"
+    ],
+    "photo_url": null,
+    "birthdate": "1997-01-13"
+  },
+  {
+    "name": "Santiago Arias",
+    "short_name": "Arias",
+    "nationality_code": "COL",
+    "nationality_name": "Colombia",
+    "club": "Bahia",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "RB"
+    ],
+    "photo_url": null,
+    "birthdate": "1992-01-13"
+  },
+  {
+    "name": "Davinson Sánchez",
+    "short_name": "D. Sánchez",
+    "nationality_code": "COL",
+    "nationality_name": "Colombia",
+    "club": "Galatasaray",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1996-06-12"
+  },
+  {
+    "name": "Yerry Mina",
+    "short_name": "Mina",
+    "nationality_code": "COL",
+    "nationality_name": "Colombia",
+    "club": "Cagliari",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1994-09-23"
+  },
+  {
+    "name": "Camilo Vargas",
+    "short_name": "C. Vargas",
+    "nationality_code": "COL",
+    "nationality_name": "Colombia",
+    "club": "Atlas",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1989-03-09"
+  },
+  {
+    "name": "Hirving Lozano",
+    "short_name": "Lozano",
+    "nationality_code": "MEX",
+    "nationality_name": "Mexico",
+    "club": "PSV Eindhoven",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1995-07-30"
+  },
+  {
+    "name": "Guillermo Ochoa",
+    "short_name": "Ochoa",
+    "nationality_code": "MEX",
+    "nationality_name": "Mexico",
+    "club": "Salernitana",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1985-07-13"
+  },
+  {
+    "name": "Edson Álvarez",
+    "short_name": "E. Álvarez",
+    "nationality_code": "MEX",
+    "nationality_name": "Mexico",
+    "club": "West Ham United",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1997-10-24"
+  },
+  {
+    "name": "Raúl Jiménez",
+    "short_name": "Jiménez",
+    "nationality_code": "MEX",
+    "nationality_name": "Mexico",
+    "club": "Fulham",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "1991-05-05"
+  },
+  {
+    "name": "Gerardo Arteaga",
+    "short_name": "Arteaga",
+    "nationality_code": "MEX",
+    "nationality_name": "Mexico",
+    "club": "Genk",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "LB"
+    ],
+    "photo_url": null,
+    "birthdate": "1998-09-07"
+  },
+  {
+    "name": "Santiago Giménez",
+    "short_name": "S. Giménez",
+    "nationality_code": "MEX",
+    "nationality_name": "Mexico",
+    "club": "Feyenoord",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "2001-04-18"
+  },
+  {
+    "name": "Christian Pulisic",
+    "short_name": "Pulisic",
+    "nationality_code": "USA",
+    "nationality_name": "United States",
+    "club": "AC Milan",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "RW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Christian_Pulisic_USMNT_v_Belgium_Mar_28_2026-73_%28cropped%29.jpg/250px-Christian_Pulisic_USMNT_v_Belgium_Mar_28_2026-73_%28cropped%29.jpg",
+    "birthdate": "1998-09-18"
+  },
+  {
+    "name": "Weston McKennie",
+    "short_name": "McKennie",
+    "nationality_code": "USA",
+    "nationality_name": "United States",
+    "club": "Juventus",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1998-08-28"
+  },
+  {
+    "name": "Timothy Weah",
+    "short_name": "Weah",
+    "nationality_code": "USA",
+    "nationality_name": "United States",
+    "club": "Juventus",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "2000-02-22"
+  },
+  {
+    "name": "Giovanni Reyna",
+    "short_name": "Reyna",
+    "nationality_code": "USA",
+    "nationality_name": "United States",
+    "club": "Nottingham Forest",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "2002-11-13"
+  },
+  {
+    "name": "Tyler Adams",
+    "short_name": "Adams",
+    "nationality_code": "USA",
+    "nationality_name": "United States",
+    "club": "Bournemouth",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1999-02-14"
+  },
+  {
+    "name": "Matt Turner",
+    "short_name": "Turner",
+    "nationality_code": "USA",
+    "nationality_name": "United States",
+    "club": "Nottingham Forest",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1994-06-24"
+  },
+  {
+    "name": "Kaoru Mitoma",
+    "short_name": "Mitoma",
+    "nationality_code": "JPN",
+    "nationality_name": "Japan",
+    "club": "Brighton",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "RW"
+    ],
+    "photo_url": null,
+    "birthdate": "1997-05-20"
+  },
+  {
+    "name": "Takefusa Kubo",
+    "short_name": "Kubo",
+    "nationality_code": "JPN",
+    "nationality_name": "Japan",
+    "club": "Real Sociedad",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "2001-06-04"
+  },
+  {
+    "name": "Daichi Kamada",
+    "short_name": "Kamada",
+    "nationality_code": "JPN",
+    "nationality_name": "Japan",
+    "club": "Crystal Palace",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1996-08-05"
+  },
+  {
+    "name": "Takehiro Tomiyasu",
+    "short_name": "Tomiyasu",
+    "nationality_code": "JPN",
+    "nationality_name": "Japan",
+    "club": "Arsenal",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "RB",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1998-11-05"
+  },
+  {
+    "name": "Wataru Endo",
+    "short_name": "Endo",
+    "nationality_code": "JPN",
+    "nationality_name": "Japan",
+    "club": "Liverpool",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1993-02-09"
+  },
+  {
+    "name": "Zion Suzuki",
+    "short_name": "Suzuki",
+    "nationality_code": "JPN",
+    "nationality_name": "Japan",
+    "club": "Parma",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "2002-08-21"
+  },
+  {
+    "name": "Son Heung-min",
+    "short_name": "Son",
+    "nationality_code": "KOR",
+    "nationality_name": "South Korea",
+    "club": "Tottenham Hotspur",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "ST",
+      "RW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg/250px-BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg",
+    "birthdate": "1992-07-08"
+  },
+  {
+    "name": "Kim Min-jae",
+    "short_name": "Kim MJ",
+    "nationality_code": "KOR",
+    "nationality_name": "South Korea",
+    "club": "Bayern Munich",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_26.jpg/250px-FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_26.jpg",
+    "birthdate": "1996-11-15"
+  },
+  {
+    "name": "Lee Kang-in",
+    "short_name": "Lee KI",
+    "nationality_code": "KOR",
+    "nationality_name": "South Korea",
+    "club": "Paris Saint-Germain",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "RW"
+    ],
+    "photo_url": null,
+    "birthdate": "2001-02-19"
+  },
+  {
+    "name": "Hwang Hee-chan",
+    "short_name": "Hwang HC",
+    "nationality_code": "KOR",
+    "nationality_name": "South Korea",
+    "club": "Wolverhampton",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1996-01-26"
+  },
+  {
+    "name": "Cho Gue-sung",
+    "short_name": "Cho GS",
+    "nationality_code": "KOR",
+    "nationality_name": "South Korea",
+    "club": "Midtjylland",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "1998-01-06"
+  },
+  {
+    "name": "Kim Seung-gyu",
+    "short_name": "Kim SG",
+    "nationality_code": "KOR",
+    "nationality_name": "South Korea",
+    "club": "Al Shabab",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1990-09-30"
+  },
+  {
+    "name": "Achraf Hakimi",
+    "short_name": "Hakimi",
+    "nationality_code": "MAR",
+    "nationality_name": "Morocco",
+    "club": "Paris Saint-Germain",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "RB",
+      "RW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Achraf_Hakimi_%28cropped%29.jpg/250px-Achraf_Hakimi_%28cropped%29.jpg",
+    "birthdate": "1998-11-04"
+  },
+  {
+    "name": "Hakim Ziyech",
+    "short_name": "Ziyech",
+    "nationality_code": "MAR",
+    "nationality_name": "Morocco",
+    "club": "Galatasaray",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1993-03-19"
+  },
+  {
+    "name": "Youssef En-Nesyri",
+    "short_name": "En-Nesyri",
+    "nationality_code": "MAR",
+    "nationality_name": "Morocco",
+    "club": "Fenerbahçe",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "1997-06-01"
+  },
+  {
+    "name": "Sofyan Amrabat",
+    "short_name": "Amrabat",
+    "nationality_code": "MAR",
+    "nationality_name": "Morocco",
+    "club": "Fenerbahçe",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1996-08-21"
+  },
+  {
+    "name": "Noussair Mazraoui",
+    "short_name": "Mazraoui",
+    "nationality_code": "MAR",
+    "nationality_name": "Morocco",
+    "club": "Manchester United",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "RB",
+      "LB"
+    ],
+    "photo_url": null,
+    "birthdate": "1997-11-14"
+  },
+  {
+    "name": "Yassine Bounou",
+    "short_name": "Bounou",
+    "nationality_code": "MAR",
+    "nationality_name": "Morocco",
+    "club": "Al Hilal",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1991-04-05"
+  },
+  {
+    "name": "Sadio Mané",
+    "short_name": "Mané",
+    "nationality_code": "SEN",
+    "nationality_name": "Senegal",
+    "club": "Al Nassr",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "ST",
+      "RW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sadio_Mane_Al-Nassr.jpg/250px-Sadio_Mane_Al-Nassr.jpg",
+    "birthdate": "1992-04-10"
+  },
+  {
+    "name": "Kalidou Koulibaly",
+    "short_name": "Koulibaly",
+    "nationality_code": "SEN",
+    "nationality_name": "Senegal",
+    "club": "Al Hilal",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Joueur_de_foot.jpg/250px-Joueur_de_foot.jpg",
+    "birthdate": "1991-06-20"
+  },
+  {
+    "name": "Idrissa Gana Gueye",
+    "short_name": "Gueye",
+    "nationality_code": "SEN",
+    "nationality_name": "Senegal",
+    "club": "Everton",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1989-09-26"
+  },
+  {
+    "name": "Abdou Diallo",
+    "short_name": "A. Diallo",
+    "nationality_code": "SEN",
+    "nationality_name": "Senegal",
+    "club": "Lyon",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "LB"
+    ],
+    "photo_url": null,
+    "birthdate": "1996-05-04"
+  },
+  {
+    "name": "Ismaïla Sarr",
+    "short_name": "I. Sarr",
+    "nationality_code": "SEN",
+    "nationality_name": "Senegal",
+    "club": "Crystal Palace",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1998-02-25"
+  },
+  {
+    "name": "Édouard Mendy",
+    "short_name": "E. Mendy",
+    "nationality_code": "SEN",
+    "nationality_name": "Senegal",
+    "club": "Al Ahli",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1992-03-01"
+  },
+  {
+    "name": "Victor Osimhen",
+    "short_name": "Osimhen",
+    "nationality_code": "NGA",
+    "nationality_name": "Nigeria",
+    "club": "Napoli",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Victor-osimhen-nigeria-2024-3-4.jpg/250px-Victor-osimhen-nigeria-2024-3-4.jpg",
+    "birthdate": "1998-12-29"
+  },
+  {
+    "name": "Ademola Lookman",
+    "short_name": "Lookman",
+    "nationality_code": "NGA",
+    "nationality_name": "Nigeria",
+    "club": "Atalanta",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "RW",
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "1997-10-20"
+  },
+  {
+    "name": "Alex Iwobi",
+    "short_name": "Iwobi",
+    "nationality_code": "NGA",
+    "nationality_name": "Nigeria",
+    "club": "Fulham",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1996-05-03"
+  },
+  {
+    "name": "Wilfred Ndidi",
+    "short_name": "Ndidi",
+    "nationality_code": "NGA",
+    "nationality_name": "Nigeria",
+    "club": "Everton",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1996-12-16"
+  },
+  {
+    "name": "William Troost-Ekong",
+    "short_name": "Ekong",
+    "nationality_code": "NGA",
+    "nationality_name": "Nigeria",
+    "club": "Al Kholood",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1993-09-01"
+  },
+  {
+    "name": "Stanley Nwabali",
+    "short_name": "Nwabali",
+    "nationality_code": "NGA",
+    "nationality_name": "Nigeria",
+    "club": "Chippa United",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1996-01-01"
+  },
+  {
+    "name": "Erling Haaland",
+    "short_name": "Haaland",
+    "nationality_code": "NOR",
+    "nationality_name": "Norway",
+    "club": "Manchester City",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Erling_Haaland_June_2025.jpg/250px-Erling_Haaland_June_2025.jpg",
+    "birthdate": "2000-07-21"
+  },
+  {
+    "name": "Martin Ødegaard",
+    "short_name": "Ødegaard",
+    "nationality_code": "NOR",
+    "nationality_name": "Norway",
+    "club": "Arsenal",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Norway_Italy_-_June_2025_E_04.jpg/250px-Norway_Italy_-_June_2025_E_04.jpg",
+    "birthdate": "1998-12-17"
+  },
+  {
+    "name": "Ørjan Nyland",
+    "short_name": "Nyland",
+    "nationality_code": "NOR",
+    "nationality_name": "Norway",
+    "club": "Sevilla",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1990-09-10"
+  },
+  {
+    "name": "Kristoffer Ajer",
+    "short_name": "Ajer",
+    "nationality_code": "NOR",
+    "nationality_name": "Norway",
+    "club": "Brentford",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1998-04-17"
+  },
+  {
+    "name": "Alexander Sørloth",
+    "short_name": "Sørloth",
+    "nationality_code": "NOR",
+    "nationality_name": "Norway",
+    "club": "Atlético Madrid",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "1995-12-05"
+  },
+  {
+    "name": "Christian Eriksen",
+    "short_name": "Eriksen",
+    "nationality_code": "DEN",
+    "nationality_name": "Denmark",
+    "club": "Manchester United",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1992-02-14"
+  },
+  {
+    "name": "Rasmus Højlund",
+    "short_name": "Højlund",
+    "nationality_code": "DEN",
+    "nationality_name": "Denmark",
+    "club": "Manchester United",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "2003-01-04"
+  },
+  {
+    "name": "Kasper Schmeichel",
+    "short_name": "Schmeichel",
+    "nationality_code": "DEN",
+    "nationality_name": "Denmark",
+    "club": "Celtic",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1986-11-05"
+  },
+  {
+    "name": "Andreas Christensen",
+    "short_name": "Christensen",
+    "nationality_code": "DEN",
+    "nationality_name": "Denmark",
+    "club": "Barcelona",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1996-04-10"
+  },
+  {
+    "name": "Joakim Maehle",
+    "short_name": "Maehle",
+    "nationality_code": "DEN",
+    "nationality_name": "Denmark",
+    "club": "Wolfsburg",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "LB",
+      "RB"
+    ],
+    "photo_url": null,
+    "birthdate": "1997-05-20"
+  },
+  {
+    "name": "Granit Xhaka",
+    "short_name": "Xhaka",
+    "nationality_code": "SUI",
+    "nationality_name": "Switzerland",
+    "club": "Bayer Leverkusen",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Granit_Xhaka_%28cropped%29.jpg/250px-Granit_Xhaka_%28cropped%29.jpg",
+    "birthdate": "1992-09-27"
+  },
+  {
+    "name": "Manuel Akanji",
+    "short_name": "Akanji",
+    "nationality_code": "SUI",
+    "nationality_name": "Switzerland",
+    "club": "Manchester City",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1995-07-19"
+  },
+  {
+    "name": "Xherdan Shaqiri",
+    "short_name": "Shaqiri",
+    "nationality_code": "SUI",
+    "nationality_name": "Switzerland",
+    "club": "Basel",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1991-10-10"
+  },
+  {
+    "name": "Dan Ndoye",
+    "short_name": "Ndoye",
+    "nationality_code": "SUI",
+    "nationality_name": "Switzerland",
+    "club": "Bologna",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW",
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "2000-10-25"
+  },
+  {
+    "name": "Yann Sommer",
+    "short_name": "Sommer",
+    "nationality_code": "SUI",
+    "nationality_name": "Switzerland",
+    "club": "Inter Milan",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1988-12-17"
+  },
+  {
+    "name": "David Alaba",
+    "short_name": "Alaba",
+    "nationality_code": "AUT",
+    "nationality_name": "Austria",
+    "club": "Real Madrid",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "LB"
+    ],
+    "photo_url": null,
+    "birthdate": "1992-06-24"
+  },
+  {
+    "name": "Konrad Laimer",
+    "short_name": "Laimer",
+    "nationality_code": "AUT",
+    "nationality_name": "Austria",
+    "club": "Bayern Munich",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "RB"
+    ],
+    "photo_url": null,
+    "birthdate": "1997-05-27"
+  },
+  {
+    "name": "Marcel Sabitzer",
+    "short_name": "Sabitzer",
+    "nationality_code": "AUT",
+    "nationality_name": "Austria",
+    "club": "Borussia Dortmund",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1994-03-17"
+  },
+  {
+    "name": "Marko Arnautović",
+    "short_name": "Arnautović",
+    "nationality_code": "AUT",
+    "nationality_name": "Austria",
+    "club": "Inter Milan",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1989-04-19"
+  },
+  {
+    "name": "Patrick Pentz",
+    "short_name": "Pentz",
+    "nationality_code": "AUT",
+    "nationality_name": "Austria",
+    "club": "Brøndby",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1997-01-02"
+  },
+  {
+    "name": "Hakan Çalhanoğlu",
+    "short_name": "Çalhanoğlu",
+    "nationality_code": "TUR",
+    "nationality_name": "Turkey",
+    "club": "Inter Milan",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1994-02-08"
+  },
+  {
+    "name": "Kenan Yıldız",
+    "short_name": "Yıldız",
+    "nationality_code": "TUR",
+    "nationality_name": "Turkey",
+    "club": "Juventus",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "RW"
+    ],
+    "photo_url": null,
+    "birthdate": "2005-05-04"
+  },
+  {
+    "name": "Arda Güler",
+    "short_name": "Güler",
+    "nationality_code": "TUR",
+    "nationality_name": "Turkey",
+    "club": "Real Madrid",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "RW"
+    ],
+    "photo_url": null,
+    "birthdate": "2005-02-25"
+  },
+  {
+    "name": "Barış Alper Yılmaz",
+    "short_name": "Aktürkoğlu",
+    "nationality_code": "TUR",
+    "nationality_name": "Turkey",
+    "club": "Galatasaray",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "2000-01-01"
+  },
+  {
+    "name": "Mert Günok",
+    "short_name": "Günok",
+    "nationality_code": "TUR",
+    "nationality_name": "Turkey",
+    "club": "Beşiktaş",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1989-03-01"
+  },
+  {
+    "name": "Dušan Vlahović",
+    "short_name": "Vlahović",
+    "nationality_code": "SRB",
+    "nationality_name": "Serbia",
+    "club": "Juventus",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "2000-01-28"
+  },
+  {
+    "name": "Sergej Milinković-Savić",
+    "short_name": "SMS",
+    "nationality_code": "SRB",
+    "nationality_name": "Serbia",
+    "club": "Al Hilal",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1995-02-27"
+  },
+  {
+    "name": "Filip Kostić",
+    "short_name": "Kostić",
+    "nationality_code": "SRB",
+    "nationality_name": "Serbia",
+    "club": "Juventus",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "LW",
+      "LB"
+    ],
+    "photo_url": null,
+    "birthdate": "1992-11-01"
+  },
+  {
+    "name": "Strahinja Pavlović",
+    "short_name": "Pavlović",
+    "nationality_code": "SRB",
+    "nationality_name": "Serbia",
+    "club": "AC Milan",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "2001-05-24"
+  },
+  {
+    "name": "Predrag Rajković",
+    "short_name": "Rajković",
+    "nationality_code": "SRB",
+    "nationality_name": "Serbia",
+    "club": "Mallorca",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1995-10-31"
+  },
+  {
+    "name": "Robert Lewandowski",
+    "short_name": "Lewandowski",
+    "nationality_code": "POL",
+    "nationality_name": "Poland",
+    "club": "Barcelona",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2019147183134_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_0228_-_B70I8527_%28cropped%29.jpg/250px-2019147183134_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_0228_-_B70I8527_%28cropped%29.jpg",
+    "birthdate": "1988-08-21"
+  },
+  {
+    "name": "Wojciech Szczęsny",
+    "short_name": "Szczęsny",
+    "nationality_code": "POL",
+    "nationality_name": "Poland",
+    "club": "Barcelona",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1990-04-18"
+  },
+  {
+    "name": "Piotr Zieliński",
+    "short_name": "Zieliński",
+    "nationality_code": "POL",
+    "nationality_name": "Poland",
+    "club": "Inter Milan",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1994-05-20"
+  },
+  {
+    "name": "Jakub Kiwior",
+    "short_name": "Kiwior",
+    "nationality_code": "POL",
+    "nationality_name": "Poland",
+    "club": "Arsenal",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "LB"
+    ],
+    "photo_url": null,
+    "birthdate": "2000-02-15"
+  },
+  {
+    "name": "Nicola Zalewski",
+    "short_name": "Zalewski",
+    "nationality_code": "POL",
+    "nationality_name": "Poland",
+    "club": "Roma",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "LB",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "2002-01-23"
+  },
+  {
+    "name": "Mohammed Kudus",
+    "short_name": "Kudus",
+    "nationality_code": "GHA",
+    "nationality_name": "Ghana",
+    "club": "West Ham United",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R",
+      "RW"
+    ],
+    "photo_url": null,
+    "birthdate": "2000-08-02"
+  },
+  {
+    "name": "Thomas Partey",
+    "short_name": "Partey",
+    "nationality_code": "GHA",
+    "nationality_name": "Ghana",
+    "club": "Arsenal",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1993-06-13"
+  },
+  {
+    "name": "Iñaki Williams",
+    "short_name": "I. Williams",
+    "nationality_code": "GHA",
+    "nationality_name": "Ghana",
+    "club": "Athletic Bilbao",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "1994-06-15"
+  },
+  {
+    "name": "Tariq Lamptey",
+    "short_name": "Lamptey",
+    "nationality_code": "GHA",
+    "nationality_name": "Ghana",
+    "club": "Brighton",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "RB",
+      "RW"
+    ],
+    "photo_url": null,
+    "birthdate": "2000-09-30"
+  },
+  {
+    "name": "Lawrence Ati-Zigi",
+    "short_name": "Ati-Zigi",
+    "nationality_code": "GHA",
+    "nationality_name": "Ghana",
+    "club": "St. Gallen",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1996-11-29"
+  },
+  {
+    "name": "André Onana",
+    "short_name": "A. Onana",
+    "nationality_code": "CMR",
+    "nationality_name": "Cameroon",
+    "club": "Manchester United",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1996-04-02"
+  },
+  {
+    "name": "Bryan Mbeumo",
+    "short_name": "Mbeumo",
+    "nationality_code": "CMR",
+    "nationality_name": "Cameroon",
+    "club": "Brentford",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "1999-08-07"
+  },
+  {
+    "name": "Karl Toko Ekambi",
+    "short_name": "Toko Ekambi",
+    "nationality_code": "CMR",
+    "nationality_name": "Cameroon",
+    "club": "Lyon",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "LW",
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "1992-09-14"
+  },
+  {
+    "name": "André-Frank Zambo Anguissa",
+    "short_name": "Anguissa",
+    "nationality_code": "CMR",
+    "nationality_name": "Cameroon",
+    "club": "Napoli",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1995-11-16"
+  },
+  {
+    "name": "Nicolas Nkoulou",
+    "short_name": "Nkoulou",
+    "nationality_code": "CMR",
+    "nationality_name": "Cameroon",
+    "club": "Aris Thessaloniki",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1990-03-27"
+  },
+  {
+    "name": "Moisés Caicedo",
+    "short_name": "Caicedo",
+    "nationality_code": "ECU",
+    "nationality_name": "Ecuador",
+    "club": "Chelsea",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "2001-11-02"
+  },
+  {
+    "name": "Enner Valencia",
+    "short_name": "E. Valencia",
+    "nationality_code": "ECU",
+    "nationality_name": "Ecuador",
+    "club": "Internacional",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1989-11-04"
+  },
+  {
+    "name": "Piero Hincapié",
+    "short_name": "Hincapié",
+    "nationality_code": "ECU",
+    "nationality_name": "Ecuador",
+    "club": "Bayer Leverkusen",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "LB"
+    ],
+    "photo_url": null,
+    "birthdate": "2002-01-09"
+  },
+  {
+    "name": "Kendry Páez",
+    "short_name": "Páez",
+    "nationality_code": "ECU",
+    "nationality_name": "Ecuador",
+    "club": "Independiente del Valle",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "2007-05-08"
+  },
+  {
+    "name": "Alexander Domínguez",
+    "short_name": "Domínguez",
+    "nationality_code": "ECU",
+    "nationality_name": "Ecuador",
+    "club": "Liga de Quito",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1987-06-05"
+  },
+  {
+    "name": "Jackson Irvine",
+    "short_name": "Irvine",
+    "nationality_code": "AUS",
+    "nationality_name": "Australia",
+    "club": "St. Pauli",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1993-03-07"
+  },
+  {
+    "name": "Mitchell Duke",
+    "short_name": "Duke",
+    "nationality_code": "AUS",
+    "nationality_name": "Australia",
+    "club": "Machida Zelvia",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "1991-03-18"
+  },
+  {
+    "name": "Harry Souttar",
+    "short_name": "Souttar",
+    "nationality_code": "AUS",
+    "nationality_name": "Australia",
+    "club": "Sheffield United",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "CB_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1998-10-22"
+  },
+  {
+    "name": "Mathew Ryan",
+    "short_name": "M. Ryan",
+    "nationality_code": "AUS",
+    "nationality_name": "Australia",
+    "club": "Roma",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1992-04-08"
+  },
+  {
+    "name": "Garang Kuol",
+    "short_name": "Kuol",
+    "nationality_code": "AUS",
+    "nationality_name": "Australia",
+    "club": "Newcastle United",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "2004-09-15"
+  },
+  {
+    "name": "Alphonso Davies",
+    "short_name": "Davies",
+    "nationality_code": "CAN",
+    "nationality_name": "Canada",
+    "club": "Bayern Munich",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "LB",
+      "LW"
+    ],
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alphonso_Davies_in_2022.jpg/250px-Alphonso_Davies_in_2022.jpg",
+    "birthdate": "2000-11-02"
+  },
+  {
+    "name": "Jonathan David",
+    "short_name": "J. David",
+    "nationality_code": "CAN",
+    "nationality_name": "Canada",
+    "club": "Lille",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "2000-01-14"
+  },
+  {
+    "name": "Cyle Larin",
+    "short_name": "Larin",
+    "nationality_code": "CAN",
+    "nationality_name": "Canada",
+    "club": "Mallorca",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "ST",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1995-04-17"
+  },
+  {
+    "name": "Tajon Buchanan",
+    "short_name": "Buchanan",
+    "nationality_code": "CAN",
+    "nationality_name": "Canada",
+    "club": "Inter Milan",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1999-02-08"
+  },
+  {
+    "name": "Milan Borjan",
+    "short_name": "Borjan",
+    "nationality_code": "CAN",
+    "nationality_name": "Canada",
+    "club": "Red Star Belgrade",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1987-10-23"
+  },
+  {
+    "name": "Aaron Ramsey",
+    "short_name": "Ramsey",
+    "nationality_code": "WAL",
+    "nationality_name": "Wales",
+    "club": "Cardiff City",
+    "primary_position": "MID",
+    "eligible_slots": [
+      "CM_L",
+      "CM_C",
+      "CM_R"
+    ],
+    "photo_url": null,
+    "birthdate": "1990-12-26"
+  },
+  {
+    "name": "Daniel James",
+    "short_name": "D. James",
+    "nationality_code": "WAL",
+    "nationality_name": "Wales",
+    "club": "Leeds United",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW"
+    ],
+    "photo_url": null,
+    "birthdate": "1997-11-10"
+  },
+  {
+    "name": "Brennan Johnson",
+    "short_name": "B. Johnson",
+    "nationality_code": "WAL",
+    "nationality_name": "Wales",
+    "club": "Tottenham Hotspur",
+    "primary_position": "FWD",
+    "eligible_slots": [
+      "RW",
+      "LW",
+      "ST"
+    ],
+    "photo_url": null,
+    "birthdate": "2001-05-23"
+  },
+  {
+    "name": "Danny Ward",
+    "short_name": "Ward",
+    "nationality_code": "WAL",
+    "nationality_name": "Wales",
+    "club": "Leicester City",
+    "primary_position": "GK",
+    "eligible_slots": [
+      "GK"
+    ],
+    "photo_url": null,
+    "birthdate": "1993-06-22"
+  },
+  {
+    "name": "Ben Davies",
+    "short_name": "B. Davies",
+    "nationality_code": "WAL",
+    "nationality_name": "Wales",
+    "club": "Tottenham Hotspur",
+    "primary_position": "DEF",
+    "eligible_slots": [
+      "CB_L",
+      "LB"
+    ],
+    "photo_url": null,
+    "birthdate": "1993-04-24"
+  }
+]

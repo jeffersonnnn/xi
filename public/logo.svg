@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <defs>
+    <linearGradient id="shield-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1C241D"/>
+      <stop offset="100%" stop-color="#0A0F0C"/>
+    </linearGradient>
+    <linearGradient id="gold-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5C518"/>
+      <stop offset="100%" stop-color="#C99A06"/>
+    </linearGradient>
+    <linearGradient id="turf-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A7D42"/>
+      <stop offset="100%" stop-color="#156B38"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="gold-glow">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feFlood flood-color="#F5C518" flood-opacity="0.3" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feComposite in="SourceGraphic" in2="glow" operator="over"/>
+    </filter>
+    <clipPath id="shield-clip">
+      <path d="M500 60 L880 180 Q900 190 900 210 L900 520 Q900 700 500 940 Q100 700 100 520 L100 210 Q100 190 120 180 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="1000" fill="#0A0F0C"/>
+
+  <!-- Shield shape -->
+  <path d="M500 60 L880 180 Q900 190 900 210 L900 520 Q900 700 500 940 Q100 700 100 520 L100 210 Q100 190 120 180 Z" fill="url(#shield-grad)" stroke="url(#gold-grad)" stroke-width="4"/>
+
+  <!-- Turf pitch inside shield -->
+  <g clip-path="url(#shield-clip)">
+    <!-- Pitch stripes -->
+    <rect x="100" y="350" width="800" height="600" fill="#1A7D42"/>
+    <rect x="100" y="350" width="800" height="75" fill="#156B38"/>
+    <rect x="100" y="500" width="800" height="75" fill="#156B38"/>
+    <rect x="100" y="650" width="800" height="75" fill="#156B38"/>
+    <rect x="100" y="800" width="800" height="75" fill="#156B38"/>
+
+    <!-- Pitch markings -->
+    <!-- Halfway line -->
+    <line x1="100" y1="620" x2="900" y2="620" stroke="rgba(255,255,255,0.15)" stroke-width="2"/>
+    <!-- Center circle -->
+    <circle cx="500" cy="620" r="80" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+    <!-- Center dot -->
+    <circle cx="500" cy="620" r="4" fill="rgba(255,255,255,0.2)"/>
+
+    <!-- Penalty box -->
+    <rect x="300" y="800" width="400" height="140" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+
+    <!-- Formation dots 4-3-3 -->
+    <!-- Forwards -->
+    <circle cx="300" cy="440" r="8" fill="#F5C518" opacity="0.6"/>
+    <circle cx="500" cy="420" r="8" fill="#F5C518" opacity="0.6"/>
+    <circle cx="700" cy="440" r="8" fill="#F5C518" opacity="0.6"/>
+    <!-- Midfield -->
+    <circle cx="350" cy="560" r="7" fill="rgba(255,255,255,0.4)"/>
+    <circle cx="500" cy="580" r="7" fill="rgba(255,255,255,0.4)"/>
+    <circle cx="650" cy="560" r="7" fill="rgba(255,255,255,0.4)"/>
+    <!-- Defense -->
+    <circle cx="250" cy="700" r="6" fill="rgba(255,255,255,0.3)"/>
+    <circle cx="400" cy="720" r="6" fill="rgba(255,255,255,0.3)"/>
+    <circle cx="600" cy="720" r="6" fill="rgba(255,255,255,0.3)"/>
+    <circle cx="750" cy="700" r="6" fill="rgba(255,255,255,0.3)"/>
+    <!-- GK -->
+    <circle cx="500" cy="850" r="6" fill="rgba(255,255,255,0.25)"/>
+  </g>
+
+  <!-- Dark overlay on upper shield for text readability -->
+  <path d="M500 60 L880 180 Q900 190 900 210 L900 400 Q700 380 500 400 Q300 380 100 400 L100 210 Q100 190 120 180 Z" fill="#0A0F0C" opacity="0.7"/>
+
+  <!-- Dollar sign -->
+  <text x="370" y="290" font-family="'Teko', 'Arial Black', sans-serif" font-weight="700" font-size="220" fill="url(#gold-grad)" filter="url(#gold-glow)">$</text>
+
+  <!-- XI text -->
+  <text x="480" y="290" font-family="'Teko', 'Arial Black', sans-serif" font-weight="700" font-size="220" fill="#F2F5EF" letter-spacing="8">XI</text>
+
+  <!-- Tagline -->
+  <text x="500" y="340" font-family="'Inter', 'Helvetica', sans-serif" font-size="28" fill="#9AA89C" text-anchor="middle" letter-spacing="8" text-transform="uppercase">THE PEOPLE'S STARTING XI</text>
+
+  <!-- Gold accent lines on shield edges -->
+  <line x1="200" y1="160" x2="350" y2="120" stroke="url(#gold-grad)" stroke-width="2" opacity="0.4"/>
+  <line x1="800" y1="160" x2="650" y2="120" stroke="url(#gold-grad)" stroke-width="2" opacity="0.4"/>
+</svg>

@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" width="1500" height="500">
+  <defs>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0F0C"/>
+      <stop offset="50%" stop-color="#141A15"/>
+      <stop offset="100%" stop-color="#0A0F0C"/>
+    </linearGradient>
+    <linearGradient id="b-gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C99A06"/>
+      <stop offset="50%" stop-color="#F5C518"/>
+      <stop offset="100%" stop-color="#C99A06"/>
+    </linearGradient>
+    <linearGradient id="b-turf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A7D42"/>
+      <stop offset="100%" stop-color="#0F5A2D"/>
+    </linearGradient>
+    <filter id="b-glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#F5C518" flood-opacity="0.25" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feComposite in="SourceGraphic" in2="glow" operator="over"/>
+    </filter>
+    <filter id="text-shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+    <clipPath id="pitch-clip">
+      <rect x="950" y="60" width="500" height="380" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1500" height="500" fill="url(#bg-grad)"/>
+
+  <!-- Subtle grid pattern -->
+  <g opacity="0.03">
+    <line x1="0" y1="100" x2="1500" y2="100" stroke="#F2F5EF" stroke-width="1"/>
+    <line x1="0" y1="200" x2="1500" y2="200" stroke="#F2F5EF" stroke-width="1"/>
+    <line x1="0" y1="300" x2="1500" y2="300" stroke="#F2F5EF" stroke-width="1"/>
+    <line x1="0" y1="400" x2="1500" y2="400" stroke="#F2F5EF" stroke-width="1"/>
+    <line x1="300" y1="0" x2="300" y2="500" stroke="#F2F5EF" stroke-width="1"/>
+    <line x1="600" y1="0" x2="600" y2="500" stroke="#F2F5EF" stroke-width="1"/>
+    <line x1="900" y1="0" x2="900" y2="500" stroke="#F2F5EF" stroke-width="1"/>
+    <line x1="1200" y1="0" x2="1200" y2="500" stroke="#F2F5EF" stroke-width="1"/>
+  </g>
+
+  <!-- Gold LED border top and bottom -->
+  <rect x="0" y="0" width="1500" height="3" fill="url(#b-gold)" opacity="0.6"/>
+  <rect x="0" y="497" width="1500" height="3" fill="url(#b-gold)" opacity="0.6"/>
+
+  <!-- Mini pitch on right side -->
+  <g clip-path="url(#pitch-clip)">
+    <rect x="950" y="60" width="500" height="380" fill="url(#b-turf)" rx="8"/>
+    <!-- Pitch stripes -->
+    <rect x="950" y="60" width="500" height="50" fill="#156B38"/>
+    <rect x="950" y="160" width="500" height="50" fill="#156B38"/>
+    <rect x="950" y="260" width="500" height="50" fill="#156B38"/>
+    <rect x="950" y="360" width="500" height="50" fill="#156B38"/>
+
+    <!-- Pitch markings -->
+    <line x1="950" y1="250" x2="1450" y2="250" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
+    <circle cx="1200" cy="250" r="50" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+    <circle cx="1200" cy="250" r="3" fill="rgba(255,255,255,0.25)"/>
+    <!-- Goal area top -->
+    <rect x="1100" y="60" width="200" height="60" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+    <!-- Goal area bottom -->
+    <rect x="1100" y="380" width="200" height="60" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+
+    <!-- 4-3-3 Formation dots -->
+    <!-- FWD -->
+    <circle cx="1080" cy="120" r="8" fill="#F5C518" opacity="0.8"/>
+    <circle cx="1200" cy="110" r="8" fill="#F5C518" opacity="0.8"/>
+    <circle cx="1320" cy="120" r="8" fill="#F5C518" opacity="0.8"/>
+    <!-- MID -->
+    <circle cx="1100" cy="210" r="7" fill="#F2F5EF" opacity="0.5"/>
+    <circle cx="1200" cy="220" r="7" fill="#F2F5EF" opacity="0.5"/>
+    <circle cx="1300" cy="210" r="7" fill="#F2F5EF" opacity="0.5"/>
+    <!-- DEF -->
+    <circle cx="1060" cy="320" r="6" fill="#F2F5EF" opacity="0.35"/>
+    <circle cx="1140" cy="330" r="6" fill="#F2F5EF" opacity="0.35"/>
+    <circle cx="1260" cy="330" r="6" fill="#F2F5EF" opacity="0.35"/>
+    <circle cx="1340" cy="320" r="6" fill="#F2F5EF" opacity="0.35"/>
+    <!-- GK -->
+    <circle cx="1200" cy="410" r="6" fill="#F2F5EF" opacity="0.25"/>
+  </g>
+  <!-- Pitch border -->
+  <rect x="950" y="60" width="500" height="380" fill="none" stroke="url(#b-gold)" stroke-width="2" rx="8" opacity="0.4"/>
+
+  <!-- Main text - left side -->
+  <!-- THE PEOPLE'S STARTING -->
+  <text x="60" y="200" font-family="'Teko', 'Arial Black', sans-serif" font-weight="700" font-size="90" fill="#F2F5EF" letter-spacing="4" filter="url(#text-shadow)">THE PEOPLE'S STARTING</text>
+
+  <!-- $XI large -->
+  <text x="60" y="340" font-family="'Teko', 'Arial Black', sans-serif" font-weight="700" font-size="180" filter="url(#b-glow)">
+    <tspan fill="url(#b-gold)">$</tspan><tspan fill="#F2F5EF">XI</tspan>
+  </text>
+
+  <!-- Tagline -->
+  <text x="64" y="390" font-family="'Inter', 'Helvetica', sans-serif" font-size="22" fill="#9AA89C" letter-spacing="6">YOUR BAG VOTES THE LINEUP</text>
+
+  <!-- Formation badge -->
+  <rect x="64" y="410" width="70" height="28" rx="6" fill="#1C241D" stroke="#2A332B" stroke-width="1"/>
+  <text x="99" y="430" font-family="'Teko', 'Arial Black', sans-serif" font-size="18" fill="#9AA89C" text-anchor="middle" letter-spacing="2">4-3-3</text>
+
+  <!-- Solana badge -->
+  <rect x="150" y="410" width="120" height="28" rx="6" fill="#1C241D" stroke="#2A332B" stroke-width="1"/>
+  <text x="210" y="430" font-family="'Inter', 'Helvetica', sans-serif" font-size="13" fill="#9AA89C" text-anchor="middle" letter-spacing="1">ON SOLANA</text>
+
+  <!-- World Cup 2026 badge -->
+  <rect x="286" y="410" width="160" height="28" rx="6" fill="#1C241D" stroke="#2A332B" stroke-width="1"/>
+  <text x="366" y="430" font-family="'Inter', 'Helvetica', sans-serif" font-size="13" fill="#9AA89C" text-anchor="middle" letter-spacing="1">WORLD CUP 2026</text>
+</svg>
