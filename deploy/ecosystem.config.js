@@ -5,7 +5,6 @@ module.exports = {
       script: "npm",
       args: "start",
       cwd: "/var/www/xi",
-      env_file: "/var/www/xi/.env.local",
       env: {
         NODE_ENV: "production",
         PORT: 3000,
@@ -16,10 +15,9 @@ module.exports = {
     },
     {
       name: "worker",
-      script: "npx",
-      args: "tsx worker/index.ts",
+      script: "node",
+      args: "--env-file=.env.local --import tsx worker/index.ts",
       cwd: "/var/www/xi",
-      env_file: "/var/www/xi/.env.local",
       env: {
         NODE_ENV: "production",
         ALLOW_TEST_VOTES: "false",
