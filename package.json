@@ -14,10 +14,19 @@
     "test": "vitest run",
     "test:unit": "vitest run tests/unit",
     "test:e2e": "npx playwright test",
-    "test:coverage": "vitest run --coverage"
+    "test:coverage": "vitest run --coverage",
+    "icons": "npx tsx scripts/generate-icons.ts",
+    "cap:sync": "npx cap sync",
+    "cap:open:ios": "npx cap open ios",
+    "cap:open:android": "npx cap open android"
   },
   "dependencies": {
     "@base-ui/react": "^1.4.1",
+    "@capacitor/android": "^8.3.4",
+    "@capacitor/core": "^8.3.4",
+    "@capacitor/ios": "^8.3.4",
+    "@capacitor/splash-screen": "^8.0.1",
+    "@capacitor/status-bar": "^8.0.2",
     "@neondatabase/serverless": "^1.1.0",
     "@privy-io/react-auth": "^3.26.0",
     "@solana-program/memo": "^0.11.0",
@@ -42,6 +51,7 @@
     "tweetnacl": "^1.0.3"
   },
   "devDependencies": {
+    "@capacitor/cli": "^8.3.4",
     "@playwright/test": "^1.60.0",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
@@ -50,9 +60,11 @@
     "@types/node-cron": "^3.0.11",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/sharp": "^0.31.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.35",
     "postcss": "^8",
+    "sharp": "^0.34.5",
     "tailwindcss": "^3.4.1",
     "typescript": "^5",
     "vitest": "^3.2.4"

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">$XI</string>
+    <string name="title_activity_main">$XI</string>
+    <string name="package_name">xyz.worldcupxi.app</string>
+    <string name="custom_url_scheme">xyz.worldcupxi.app</string>
+</resources>

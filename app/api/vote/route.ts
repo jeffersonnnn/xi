@@ -4,6 +4,21 @@ import { getTokenBalance } from '@/lib/solana';
 import { verifySignature, buildCanonicalMessage } from '@/lib/verify';
 import { SLOTS } from '@/lib/constants';
 
+const rateLimitMap = new Map<string, { count: number; resetAt: number }>();
+const RATE_LIMIT_WINDOW = 60_000;
+const MAX_REQUESTS = 5;
+
+function isRateLimited(wallet: string): boolean {
+  const now = Date.now();
+  const entry = rateLimitMap.get(wallet);
+  if (!entry || now > entry.resetAt) {
+    rateLimitMap.set(wallet, { count: 1, resetAt: now + RATE_LIMIT_WINDOW });
+    return false;
+  }
+  entry.count++;
+  return entry.count > MAX_REQUESTS;
+}
+
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
@@ -11,6 +26,10 @@ export async function POST(request: NextRequest) {
 
     if (!wallet || !picks || !signature || !message) {
       return NextResponse.json({ error: 'Missing required fields' }, { status: 400 });
+    }
+
+    if (isRateLimited(wallet)) {
+      return NextResponse.json({ error: 'Too many requests. Try again in a minute.' }, { status: 429 });
     }
 
     const isValid = verifySignature(wallet, signature, message);

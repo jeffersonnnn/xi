@@ -40,3 +40,8 @@ next-env.d.ts
 
 # supabase temp
 supabase/.temp/
+
+# Capacitor
+ios/App/Pods/
+android/.gradle/
+android/app/build/

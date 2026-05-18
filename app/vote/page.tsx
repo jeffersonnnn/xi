@@ -214,7 +214,7 @@ export default function VotePage() {
       <Pitch slots={pitchSlots} />
 
       {/* Docked submit bar */}
-      <div className="fixed bottom-0 left-0 right-0 z-40 bg-panel/95 backdrop-blur border-t border-line">
+      <div className="fixed bottom-0 left-0 right-0 z-40 bg-panel/95 backdrop-blur border-t border-line" style={{ paddingBottom: 'env(safe-area-inset-bottom, 0px)' }}>
         <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <span className="font-mono text-lg text-chalk font-bold">{Object.keys(picks).length}</span>

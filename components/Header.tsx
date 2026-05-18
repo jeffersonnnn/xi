@@ -17,7 +17,7 @@ export function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 bg-pitch-night/90 backdrop-blur border-b border-line">
+    <header className="sticky top-0 z-50 bg-pitch-night/90 backdrop-blur border-b border-line" style={{ paddingTop: 'env(safe-area-inset-top, 0px)' }}>
       <div className="max-w-7xl mx-auto px-4 h-14 flex items-center justify-between">
         <div className="flex items-center gap-6">
           <Link href="/" className="font-display text-2xl font-bold tracking-tight">
