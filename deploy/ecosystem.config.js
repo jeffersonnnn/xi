@@ -16,7 +16,7 @@ module.exports = {
     {
       name: "worker",
       script: "node",
-      args: "--env-file=.env.local ./node_modules/.bin/tsx worker/index.ts",
+      args: "--env-file=.env.local /usr/bin/tsx worker/index.ts",
       cwd: "/var/www/xi",
       env: {
         NODE_ENV: "production",
